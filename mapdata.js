@@ -8,24 +8,23 @@ var simplemaps_worldmap_mapdata={
     popups: "detect",
     
     //State defaults
-    state_description: "<img style=\"float:left; margin-right: 20px;\" src=\"/static/img/finch.png\" width=\"64\" height=\"64\" /><ul style=\"width: 175px\"; float: left;><li>Add images</li><li>Use <code>&lt;html&gt;</code></li><li style=\"color: #d13c12\">Change color</li><li style=\"font-family: Monospace\">Change Font</li></ul>",
-    state_color: "#e1ba7d",
-    state_hover_color: "#ffffff",
-    //state_hover_color: "#d13c12",
+    state_description: "",
+    state_color: "#bababa",
+    state_hover_color: "#0072ff",
     state_url: "",
     border_size: 1,
     all_states_inactive: "no",
-    all_states_zoomable: "",
+    all_states_zoomable: "yes",
     
     //Location defaults
-    location_description: "Location description",
+    location_description: "",
     location_color: "#FF0067",
     location_opacity: 0.8,
     location_hover_opacity: 1,
+    location_hover_color: "#0072ff",
     location_url: "",
-    location_size: 25,
-    location_type: "square",
-    location_image_source: "frog.png",
+    location_size: 5,
+    location_type: "circle",
     location_border_color: "#FFFFFF",
     location_border: 2,
     location_hover_border: 2.5,
@@ -40,7 +39,8 @@ var simplemaps_worldmap_mapdata={
     hide_labels: "no",
    
     //Zoom settings
-    zoom: "no",
+    manual_zoom: "yes",
+    zoom_mobile: "yes",
     back_image: "no",
     initial_back: "no",
     initial_zoom: -1,
@@ -48,7 +48,7 @@ var simplemaps_worldmap_mapdata={
     region_opacity: 1,
     region_hover_opacity: 0.6,
     zoom_out_incrementally: "yes",
-    zoom_percentage: 0.99,
+    zoom_percentage: 0.5,
     zoom_time: 0.5,
     
     //Popup settings
@@ -62,7 +62,7 @@ var simplemaps_worldmap_mapdata={
     //Advanced settings
     div: "map",
     auto_load: "yes",
-    url_new_tab: "yes",
+    url_new_tab: "no",
     images_directory: "default",
     fade_time: 0.1,
     link_text: "View Website",
@@ -73,7 +73,6 @@ var simplemaps_worldmap_mapdata={
   state_specific: {
     AF: {
       name: "Afghanistan",
-      url: "http://www.google.com"
     },
     AO: {
       name: "Angola"
@@ -202,7 +201,9 @@ var simplemaps_worldmap_mapdata={
       name: "Ecuador"
     },
     EG: {
-      name: "Egypt"
+      name: "Egypt",
+      description: "click to see post",
+      color: "#bbb659"
     },
     ER: {
       name: "Eritrea"
@@ -361,7 +362,9 @@ var simplemaps_worldmap_mapdata={
       name: "Mexico"
     },
     MK: {
-      name: "Macedonia"
+      name: "Macedonia",
+      description: "click to see post",
+      color: "#eaa528"
     },
     ML: {
       name: "Mali"
@@ -403,7 +406,9 @@ var simplemaps_worldmap_mapdata={
       name: "Netherlands"
     },
     NO: {
-      name: "Norway"
+      name: "Norway",
+      description: "click to see post",
+      color: "#f28a7c"
     },
     NP: {
       name: "Nepal"
@@ -451,7 +456,9 @@ var simplemaps_worldmap_mapdata={
       name: "Romania"
     },
     RU: {
-      name: "Russia"
+      name: "Russia",
+      //description: '<a href="http://google.com">visit post</a>',
+      url: "http://google.com"
     },
     RW: {
       name: "Rwanda"
@@ -538,12 +545,7 @@ var simplemaps_worldmap_mapdata={
       name: "Uruguay"
     },
     US: {
-      name: "United States",
-      image_size: 0.2,
-      image_x: 0.55,
-      image_y: 0.4,
-      border_hover_color: "#d13c12",
-      image_color: "#e1ba7d"
+      name: "United States"
     },
     UZ: {
       name: "Uzbekistan"
@@ -720,7 +722,22 @@ var simplemaps_worldmap_mapdata={
       name: "Canary Islands (Spain)"
     }
   },
-  locations: {},
+  locations: {
+    "0": {
+      lat: 1.912,
+      lng: 73.54,
+      name: "Maldives",
+      description: "click to see post",
+      color: "#aea1c1"
+    },
+    "1": {
+      lat: -21.133,
+      lng: 55.532,
+      name: "R\xE9union",
+      description: "click to see post",
+      color: "#f28a7c"
+    }
+  },
   labels: {},
   regions: {}
 };
