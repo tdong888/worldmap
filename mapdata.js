@@ -203,7 +203,8 @@ var simplemaps_worldmap_mapdata={
     EG: {
       name: "Egypt",
       description: "click to see post",
-      color: "#bbb659"
+      color: "#bbb659",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/egypt"
     },
     ER: {
       name: "Eritrea"
@@ -364,7 +365,8 @@ var simplemaps_worldmap_mapdata={
     MK: {
       name: "Macedonia",
       description: "click to see post",
-      color: "#eaa528"
+      color: "#eaa528",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/macedonia"
     },
     ML: {
       name: "Mali"
@@ -408,7 +410,8 @@ var simplemaps_worldmap_mapdata={
     NO: {
       name: "Norway",
       description: "click to see post",
-      color: "#f28a7c"
+      color: "#f28a7c",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/norway"
     },
     NP: {
       name: "Nepal"
@@ -456,9 +459,7 @@ var simplemaps_worldmap_mapdata={
       name: "Romania"
     },
     RU: {
-      name: "Russia",
-      //description: '<a href="http://google.com">visit post</a>',
-      url: "http://google.com"
+      name: "Russia"
     },
     RW: {
       name: "Rwanda"
@@ -728,14 +729,16 @@ var simplemaps_worldmap_mapdata={
       lng: 73.54,
       name: "Maldives",
       description: "click to see post",
-      color: "#aea1c1"
+      color: "#aea1c1",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/maldives"
     },
     "1": {
       lat: -21.133,
       lng: 55.532,
       name: "R\xE9union",
       description: "click to see post",
-      color: "#f28a7c"
+      color: "#f28a7c",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/reunion"
     }
   },
   labels: {},
