@@ -268,6 +268,9 @@ var simplemaps_worldmap_mapdata={
     },
     HU: {
       name: "Hungary"
+      description: "click to see post",
+      color: "#a5dad4",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/hungary"
     },
     ID: {
       name: "Indonesia"
@@ -355,6 +358,9 @@ var simplemaps_worldmap_mapdata={
     },
     MD: {
       name: "Moldova"
+      description: "click to see post",
+      color: "#ffef92",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/moldova"
     },
     MG: {
       name: "Madagascar"
