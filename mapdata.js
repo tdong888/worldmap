@@ -267,7 +267,7 @@ var simplemaps_worldmap_mapdata={
       name: "Haiti"
     },
     HU: {
-      name: "Hungary"
+      name: "Hungary",
       description: "click to see post",
       color: "#a5dad4",
       url: "https://twdong0420.wixsite.com/aroundtheworld/blog/hungary"
@@ -357,7 +357,7 @@ var simplemaps_worldmap_mapdata={
       name: "Morocco"
     },
     MD: {
-      name: "Moldova"
+      name: "Moldova",
       description: "click to see post",
       color: "#ffef92",
       url: "https://twdong0420.wixsite.com/aroundtheworld/blog/moldova"
