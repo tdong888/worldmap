@@ -73,6 +73,10 @@ var simplemaps_worldmap_mapdata={
   state_specific: {
     AF: {
       name: "Afghanistan",
+      name: "Afghanistan",
+      description: "click to see post",
+      color: "#FEE671",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/afghanistan"
     },
     AO: {
       name: "Angola"
@@ -96,7 +100,10 @@ var simplemaps_worldmap_mapdata={
       name: "Austria"
     },
     AZ: {
-      name: "Azerbaijan"
+      name: "Azerbaijan",
+      description: "click to see post",
+      color: "#F08A7C",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/19-azerbaijan"
     },
     BI: {
       name: "Burundi"
@@ -129,7 +136,10 @@ var simplemaps_worldmap_mapdata={
       name: "Belize"
     },
     BO: {
-      name: "Bolivia"
+      name: "Bolivia",
+      description: "click to see post",
+      color: "#EEC325",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/8-bolivia"
     },
     BR: {
       name: "Brazil"
@@ -162,7 +172,10 @@ var simplemaps_worldmap_mapdata={
       name: "Côte d'Ivoire"
     },
     CM: {
-      name: "Cameroon"
+      name: "Cameroon",
+      description: "click to see post",
+      color: "#E8A528",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/18-cameroon"
     },
     CD: {
       name: "Democratic Republic of the Congo"
@@ -195,7 +208,10 @@ var simplemaps_worldmap_mapdata={
       name: "Dominican Republic"
     },
     DZ: {
-      name: "Algeria"
+      name: "Algeria",
+      description: "click to see post",
+      color: "#BAB559",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/25-algeria"
     },
     EC: {
       name: "Ecuador"
@@ -315,7 +331,10 @@ var simplemaps_worldmap_mapdata={
       name: "Kyrgyzstan"
     },
     KH: {
-      name: "Cambodia"
+      name: "Cambodia",
+      description: "click to see post",
+      color: "#ECCED6",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/26-cambodia"
     },
     KR: {
       name: "Republic of Korea"
