@@ -205,7 +205,10 @@ var simplemaps_worldmap_mapdata={
       name: "Denmark"
     },
     DO: {
-      name: "Dominican Republic"
+      name: "Dominican Republic",
+      description: "click to see post",
+      color: "#FFEC91",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/19-azerbaijan"
     },
     DZ: {
       name: "Algeria",
@@ -256,7 +259,10 @@ var simplemaps_worldmap_mapdata={
       name: "The Gambia"
     },
     GW: {
-      name: "Guinea-Bissau"
+      name: "Guinea-Bissau (France)",
+      description: "click to see post",
+      color: "#F6B190",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/11-guinea-bissau"
     },
     GQ: {
       name: "Equatorial Guinea"
@@ -739,7 +745,10 @@ var simplemaps_worldmap_mapdata={
       name: "Martinique (France)"
     },
     GP: {
-      name: "Guadeloupe (France)"
+      name: "Guadeloupe (France)",
+      description: "click to see post",
+      color: "#ECCED6",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/27-guadeloupe"
     },
     CW: {
       name: "Curaco (Netherlands)"
