@@ -495,6 +495,7 @@ var simplemaps_worldmap_mapdata={
       name: "Russia",
       description: "click to see post",
       color: "#f28a7c",
+      inactive: "no",
       url: "https://twdong0420.wixsite.com/aroundtheworld/blog/norway"
     },
     RW: {
