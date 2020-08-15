@@ -73,7 +73,6 @@ var simplemaps_worldmap_mapdata={
   state_specific: {
     AF: {
       name: "Afghanistan",
-      name: "Afghanistan",
       description: "click to see post",
       color: "#FEE671",
       url: "https://twdong0420.wixsite.com/aroundtheworld/post/afghanistan"
