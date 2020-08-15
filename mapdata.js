@@ -307,7 +307,10 @@ var simplemaps_worldmap_mapdata={
       name: "Iran"
     },
     IQ: {
-      name: "Iraq"
+      name: "Iraq",
+      description: "click to see post",
+      color: "#A2D9D4",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/12-iraq"
     },
     IS: {
       name: "Iceland"
@@ -673,7 +676,10 @@ var simplemaps_worldmap_mapdata={
       name: "Saint Martin (French)"
     },
     MV: {
-      name: "Maldives"
+      name: "Maldives",
+      description: "click to see post",
+      color: "#ACA1C1",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/maldives"
     },
     MT: {
       name: "Malta"
