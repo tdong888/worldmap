@@ -782,6 +782,22 @@ var simplemaps_worldmap_mapdata={
       description: "click to see post",
       color: "#f28a7c",
       url: "https://twdong0420.wixsite.com/aroundtheworld/blog/reunion"
+    },
+    "2": {
+      lat: 7.1315,
+      lng: 171.1845,
+      name: "Marshall Islands",
+      description: "click to see post",
+      color: "#BAB559",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/10-marshall-islands"
+    },
+    "3": {
+      lat: 7.4256,
+      lng: 150.5508,
+      name: "Micronesia",
+      description: "click to see post",
+      color: "#5A9EAB",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/23-micronesia"
     }
   },
   labels: {},
