@@ -222,7 +222,7 @@ var simplemaps_worldmap_mapdata={
       name: "Egypt",
       description: "click to see post",
       color: "#bbb659",
-      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/egypt"
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/egypt"
     },
     ER: {
       name: "Eritrea"
