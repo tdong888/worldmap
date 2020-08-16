@@ -159,7 +159,10 @@ var simplemaps_worldmap_mapdata={
       name: "Canada"
     },
     CH: {
-      name: "Switzerland"
+      name: "Switzerland",
+      description: "click to see post",
+      color: "#E8A528",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/21-switzerland"
     },
     CL: {
       name: "Chile"
@@ -366,7 +369,10 @@ var simplemaps_worldmap_mapdata={
       name: "Libya"
     },
     LK: {
-      name: "Sri Lanka"
+      name: "Sri Lanka",
+      color: "#EEC325",
+      inactive: "no",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/16-sri-lanka"
     },
     LS: {
       name: "Lesotho"
@@ -426,7 +432,10 @@ var simplemaps_worldmap_mapdata={
       name: "Malaysia"
     },
     NA: {
-      name: "Namibia"
+      name: "Namibia",
+      description: "click to see post",
+      color: "#C5C855",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/9-namibia"
     },
     NE: {
       name: "Niger"
@@ -494,9 +503,9 @@ var simplemaps_worldmap_mapdata={
     RU: {
       name: "Russia",
       description: "click to see post",
-      color: "#f28a7c",
+      color: "#EEC325",
       inactive: "no",
-      url: "https://twdong0420.wixsite.com/aroundtheworld/blog/norway"
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/13-russia"
     },
     RW: {
       name: "Rwanda"
@@ -547,7 +556,10 @@ var simplemaps_worldmap_mapdata={
       name: "Chad"
     },
     TG: {
-      name: "Togo"
+      name: "Togo",
+      description: "click to see post",
+      color: "#FCD9B4",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/14-togo"
     },
     TH: {
       name: "Thailand"
@@ -574,7 +586,10 @@ var simplemaps_worldmap_mapdata={
       name: "Tanzania"
     },
     UG: {
-      name: "Uganda"
+      name: "Uganda",
+      description: "click to see post",
+      color: "#F08A7C",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/20-uganda"
     },
     UA: {
       name: "Ukraine"
@@ -667,7 +682,10 @@ var simplemaps_worldmap_mapdata={
       name: "Hong Kong"
     },
     KN: {
-      name: "Saint Kitts and Nevis"
+      name: "Saint Kitts and Nevis",
+      description: "click to see post",
+      color: "#F4C388",
+      url: "https://twdong0420.wixsite.com/aroundtheworld/post/saint-kitts-and-nevis"
     },
     LC: {
       name: "Saint Lucia"
