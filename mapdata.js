@@ -503,7 +503,7 @@ var simplemaps_worldmap_mapdata={
     RU: {
       name: "Russia",
       description: "click to see post",
-      color: "#EEC325",
+      color: "#8CBACE",
       inactive: "no",
       url: "https://twdong0420.wixsite.com/aroundtheworld/post/13-russia"
     },
